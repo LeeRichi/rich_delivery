@@ -36,6 +36,7 @@ Follow these steps to set up the project on your local machine:
 	```
 
 ## Project Structure
+```
 lib/
 ├── main.dart
 ├── models/
@@ -50,6 +51,7 @@ lib/
     ├── order_history.dart
     ├── recommendation.dart
     └── search_bar_widget.dart
+```
 
 ## Learning Goals
 - Understand Flutter's widget system.
