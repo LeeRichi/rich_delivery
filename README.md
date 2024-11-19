@@ -36,15 +36,15 @@ Follow these steps to set up the project on your local machine:
 	```
 
 ## Project Structure
-lib
+lib/
 ├── main.dart
-├── models
+├── models/
 │   ├── category_model.dart
 │   ├── orderHistory_model.dart
 │   └── recommendation_model.dart
-├── pages
+├── pages/
 │   └── home.dart
-└── widgets
+└── widgets/
     ├── app_bar_widget.dart
     ├── categories_widget.dart
     ├── order_history.dart
