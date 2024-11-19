@@ -57,7 +57,7 @@ To run the app on an iPhone 15 simulator, ensure you have Xcode installed and se
 	```bash
 	flutter run
 	```
-	
+
 ## Project Structure
 ```
 lib/
@@ -83,3 +83,27 @@ lib/
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/247408ae-be2e-47f8-af1b-2f1a203b52b1" alt="Simulator Screenshot" width="300" />
+
+# Future Roadmap
+
+## Pages to Add
+1. Restaurant Detail Page
+- Include restaurant description, menu, and reviews.
+2. User Profile Page
+- Display user info, order history, and preferences.
+Implement a cart widget to manage items for checkout.
+
+## New Features
+1. Search Bar Functionality
+- Allow users to search for restaurants, cuisines, or specific dishes.
+Google Maps Integration (Ultimate Goal)
+
+2. Add a map view to locate nearby restaurants.
+- Include real-time distance calculation.
+
+## Backend Enhancements
+1. Calculate Distance
+- Use the user's location and restaurant coordinates to calculate distances.
+- Sort restaurants based on proximity.
+2. Add Recommendation System
+- Recommend restaurants or menu items based on user preferences and past orders.
