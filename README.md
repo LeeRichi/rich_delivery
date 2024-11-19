@@ -59,5 +59,4 @@ lib/
 - Get hands-on with Flutter packages (e.g., flutter_svg).
 
 ## Screenshots
-![Simulator Screenshot - iPhone 15 - 2024-11-19 at 23 42 42](https://github.com/user-attachments/assets/247408ae-be2e-47f8-af1b-2f1a203b52b1)
-
+<img src="https://github.com/user-attachments/assets/247408ae-be2e-47f8-af1b-2f1a203b52b1" alt="Simulator Screenshot" width="300" />
