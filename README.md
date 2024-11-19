@@ -22,7 +22,7 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
 	```bash
-   git clone https://github.com/yourusername/rich_food_delivery.git
+   git clone https://github.com/LeeRichi/rich_delivery.git
    cd rich_food_delivery
 	```
 2. Install dependencies:
@@ -35,6 +35,29 @@ Follow these steps to set up the project on your local machine:
 	flutter run
 	```
 
+or
+
+## Running the App on iPhone Simulator
+
+To run the app on an iPhone 15 simulator, ensure you have Xcode installed and set up. Follow these steps:
+
+### Open Xcode
+1. Use the following command to open Xcode:
+	```bash
+   open -a Xcode
+	```
+2. Go to Preferences > Platforms and download the desired iOS version.
+
+3. Launch the simulator for iPhone using:
+	```bash
+	open -a Simulator
+	```
+
+4. Run app:
+	```bash
+	flutter run
+	```
+	
 ## Project Structure
 ```
 lib/
